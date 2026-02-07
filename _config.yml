@@ -53,8 +53,8 @@ description: "Digital archive by the people, for the people of Gary, Indiana"
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "SamLove"
-authorname : "Sam Love"
+author: "VoicesofGaryCollective"
+authorname : "Voices of Gary Collective"
 
 # To change the photo on your homepage, open the assets folder in your Github repo, then open the img folder. Upload a photo there. Add only the name of the photo and its extension here. E.g. "alternate_logo.png")
 sitelogo: "site_logo.png"
